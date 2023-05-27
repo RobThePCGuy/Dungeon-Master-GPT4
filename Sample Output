@@ -1,0 +1,684 @@
+Linux Terminal RPG
+==================
+
+Rob Adams•May 27, 2023
+
+`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Welcome to Terminal Quest
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Turn: 1
+HP: 20/20
+XP: 0
+AC: -
+Level: 0
+Location: Character Creation
+
+Description: You find yourself standing in an ethereal space. Bright points of light float around you, representing infinite possibilities. In front of you, a large crystalline entity shimmers into existence. Its facets cast an array of colours in all directions. "Greetings, adventurer," it says, its voice resonating around you. "Let's begin your journey."
+
+Possible Commands:
+1. {Choose Race}
+2. {Choose Class}
+3. {Generate Stats}
+4. {Inspect Self}
+5. {Begin Adventure}
+6. {Other}` 
+
+1
+
+`Command selected: {Choose Race}
+
+"The first step in your journey is to choose your race. Each race has unique abilities and traits that will shape your experience."
+
+Possible Races:
+1. Human - Versatile and adaptable. +1 to all stats.
+2. Elf - Graceful and intelligent. +2 to Intelligence and Dexterity, -1 to Strength.
+3. Dwarf - Hardy and resilient. +2 to Strength, +1 to Constitution, -1 to Dexterity.
+4. Orc - Brutish and strong. +2 to Strength, +1 to Constitution, -2 to Intelligence.
+5. Khajiit - Agile and perceptive. +2 to Dexterity, +1 to Luck, -1 to Strength.
+6. Argonian - Resilient and cunning. +2 to Constitution, +1 to Intelligence, -1 to Charisma.
+
+Please type the number corresponding to your chosen race.` 
+
+1
+
+`Command selected: {Choose Race -> Human}
+
+"Ah, a Human. An adaptable and well-rounded choice. The world is wide, and all paths lie open to you."
+
+Your Race: Human
+
+Possible Commands:
+1. {Choose Class}
+2. {Generate Stats}
+3. {Inspect Self}
+4. {Begin Adventure}
+5. {Review Race}
+6. {Other}` 
+
+1
+
+`Command selected: {Choose Class}
+
+"Every adventurer requires a specialization. This will help define your skills and influence your role in the world."
+
+Possible Classes:
+1. Warrior - Masters of combat, proficient with all weapons and armor. 
+2. Mage - Scholars of the arcane, capable of casting powerful spells.
+3. Thief - Stealthy and agile, excellent at sneaking and picking locks.
+4. Ranger - Skilled survivalists, adept at tracking, trapping, and ranged combat.
+5. Cleric - Divine healers and protectors, capable of casting healing and support spells.
+6. Bard - Entertainers and jack-of-all-trades, able to inspire their allies and manipulate their enemies.
+
+Please type the number corresponding to your chosen class.` 
+
+6
+
+`Command selected: {Choose Class -> Bard}
+
+"Ah, a Bard! The heart of any party. Your words inspire allies, your music soothes the savage beast, and your wit can charm even the frostiest noble."
+
+Your Class: Bard
+
+Possible Commands:
+1. {Generate Stats}
+2. {Inspect Self}
+3. {Begin Adventure}
+4. {Review Race}
+5. {Review Class}
+6. {Other}` 
+
+1
+
+`Command selected: {Generate Stats}
+
+"Excellent. Now let's determine your abilities."
+
+Rolling for Stats...` 
+
+Strength: 10 Intelligence: 11 Dexterity: 10 Constitution: 10 Luck: 11 Persuasion: 12
+
+markdownCopy code
+
+`"As a Human, you have an inherent adaptability. This reflects in your balanced stats. Moreover, being a Bard, your Persuasion stat is slightly higher. Quite well-rounded, I must say."
+
+Possible Commands:
+1. {Inspect Self}
+2. {Begin Adventure}
+3. {Review Race}
+4. {Review Class}
+5. {Review Stats}
+6. {Other}` 
+
+1
+
+`Command selected: {Inspect Self}
+
+Here are your current details:` 
+
+Race: Human Class: Bard Stats: Strength: 10 Intelligence: 11 Dexterity: 10 Constitution: 10 Luck: 11 Persuasion: 12
+
+markdownCopy code
+
+`You are well-rounded, adaptable, and capable of handling whatever challenges lie ahead.
+
+Possible Commands:
+1. {Begin Adventure}
+2. {Review Race}
+3. {Review Class}
+4. {Review Stats}
+5. {Adjust Appearance}
+6. {Other}` 
+
+1
+
+`Command selected: {Begin Adventure}
+
+"Your journey begins now, brave Bard."
+
+Turn: 2
+HP: 20/20
+XP: 0
+AC: 11 (Leather Armor)
+Level: 1
+Location: White Run
+
+Description: You find yourself in White Run, a bustling city set amidst a sea of white tundra. You are in the marketplace, surrounded by merchants and their stalls, each laden with goods from all corners of the realm. The air is filled with the sound of haggling and the aroma of cooking food. To the north, you see the grand Dragonsreach dominating the skyline. The Jarl, Balgruuf the Greater, resides there. To the south, the city gates beckon, leading to the wide expanse of the tundra.
+
+Inventory: Lute, Leather Armor, Healing Potion (x2), 50 Gold, Map
+
+Possible Commands:
+1. {Explore Marketplace}
+2. {Visit Dragonsreach}
+3. {Leave through City Gates}
+4. {Perform in the Marketplace}
+5. {Talk to Merchants}
+6. {Other}` 
+
+4
+
+`Command selected: {Perform in the Marketplace}
+
+Rolling a 20-sided die for your performance...
+
+Result: 18 (+ Persuasion Bonus: 2) = 20
+
+"Ah, a performance to remember! You strum your lute and weave a tale of a brave hero battling fearsome dragons. The marketplace quiets, everyone entranced by your story. When the last note fades, applause erupts. Someone even throws a pouch of gold at your feet."
+
+Turn: 3
+HP: 20/20
+XP: 30
+AC: 11 (Leather Armor)
+Level: 1
+Location: White Run, Marketplace
+Gold: 80 (You've earned 30 Gold)
+
+Description: The marketplace is still buzzing with your performance. Merchants and patrons are clapping, some even retelling the tale you spun through your song. The energy is infectious, and you find yourself at the center of it.
+
+Possible Commands:
+1. {Collect Gold}
+2. {Thank Audience}
+3. {Visit Dragonsreach}
+4. {Leave through City Gates}
+5. {Talk to Merchants}
+6. {Other}` 
+
+1
+
+`Command selected: {Collect Gold}
+
+"You bend down and pick up the pouch. It feels heavy in your hands, filled with the well-earned reward of your performance."
+
+Turn: 4
+HP: 20/20
+XP: 30
+AC: 11 (Leather Armor)
+Level: 1
+Location: White Run, Marketplace
+Gold: 110 (You've found 30 Gold)
+
+Description: With the gold safely in your pouch, you stand again, basking in the success of your performance. The marketplace still hums with the energy of your song. Merchants return to their selling, patrons to their haggling, but you notice a few lingering smiles, an echo of your tale.
+
+Possible Commands:
+1. {Thank Audience}
+2. {Visit Dragonsreach}
+3. {Leave through City Gates}
+4. {Perform Again}
+5. {Talk to Merchants}
+6. {Other}` 
+
+5
+
+`Command selected: {Talk to Merchants}
+
+"Who do you wish to talk to? There's a weapon smith, an apothecary, and a general goods vendor."
+
+Possible Commands:
+1. {Talk to Weapon Smith}
+2. {Talk to Apothecary}
+3. {Talk to General Goods Vendor}
+4. {Thank Audience}
+5. {Visit Dragonsreach}
+6. {Other}` 
+
+4
+
+`Command selected: {Thank Audience}
+
+"You take a moment to thank the audience. The people of White Run are warm and respond positively to your gratitude."
+
+Turn: 5
+HP: 20/20
+XP: 40 (You've gained 10 XP)
+AC: 11 (Leather Armor)
+Level: 1
+Location: White Run, Marketplace
+Gold: 110
+
+Description: The patrons of the marketplace give you appreciative nods and smiles. The atmosphere is cordial and cheerful. The weaponsmith, apothecary, and general goods vendor all give you a friendly wave.
+
+Inventory: Lute, Leather Armor, Healing Potion (x2), 110 Gold, Map
+Quest: None
+Stats: 
+  Strength: 10
+  Intelligence: 11
+  Dexterity: 10
+  Constitution: 10
+  Luck: 11
+  Persuasion: 12
+Period of Day: Noon
+Day: Morndas
+Weather: Clear Sky
+Season: Last Seed
+
+Possible Commands:
+1. {Talk to Weapon Smith}
+2. {Talk to Apothecary}
+3. {Talk to General Goods Vendor}
+4. {Visit Dragonsreach}
+5. {Leave through City Gates}
+6. {Other}` 
+
+1
+
+`Command selected: {Talk to Weapon Smith}
+
+"You approach the burly blacksmith, who's busy hammering a piece of steel on the anvil. He looks up as you approach and gives you a nod."
+
+Smith: "Saw your performance. Good job, Bard. Looking for a blade to accompany that lute?"
+
+Possible Commands:
+1. {Ask about Weapons}
+2. {Sell Items}
+3. {Buy Items}
+4. {Ask for Work}
+5. {Leave}
+6. {Other}` 
+
+3
+
+`Command selected: {Buy Items}
+
+"The blacksmith places his hammer down and rubs his hands on his apron. 'Let's see what I've got for you,' he says, turning towards the display of weapons."
+
+Items for sale:
+1. Iron Sword (20 Gold)
+2. Steel Sword (50 Gold)
+3. Iron Dagger (10 Gold)
+4. Bow (30 Gold)
+5. Arrows (1 Gold each)
+6. {Back}
+
+"Remember, a good weapon could be a lifesaver."` 
+
+2
+
+`Command selected: {Buy Steel Sword}
+
+"You hand over 50 gold pieces and the blacksmith gives you the finely made steel sword. The balance feels good in your hand."
+
+Turn: 6
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: White Run, Marketplace
+Gold: 60 (You've spent 50 Gold)
+
+Description: You secure the steel sword in your belt, feeling its weight. It's a good blade, and you feel more prepared for whatever lies ahead. The blacksmith nods in approval, and returns to his anvil, his hammer ringing out through the marketplace.
+
+Wearing: Leather Armor
+Wielding: Steel Sword
+
+Possible Commands:
+1. {Talk to Apothecary}
+2. {Talk to General Goods Vendor}
+3. {Visit Dragonsreach}
+4. {Leave through City Gates}
+5. {Sell Items to the Blacksmith}
+6. {Other}` 
+
+4
+
+`Command selected: {Leave through City Gates}
+
+"You decide to leave the marketplace behind, venturing out through the city gates into the wider world of Skyrim."
+
+Turn: 7
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Outside White Run
+Gold: 60
+
+Description: The brisk wind of Skyrim greets you as you pass the city gates. The sprawling plains of Whiterun hold are before you, with distant mountains piercing the clear sky. A worn path leads to the forested area to the east, and another towards the mountains to the west. You feel a sense of adventure, your steel sword at your side.
+
+Possible Commands:
+1. {Travel East towards the Forest}
+2. {Travel West towards the Mountains}
+3. {Set up Camp}
+4. {Return to White Run}
+5. {Inspect Surroundings}
+6. {Other}` 
+
+1
+
+`Command selected: {Travel East towards the Forest}
+
+"You take the eastern path, which leads into the dense forests of Skyrim. The quiet rustling of the trees and the occasional chirp of a bird are the only sounds in the air."
+
+Dice Roll: 13
+
+Turn: 8
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Eastern Forest
+Gold: 60
+
+Description: The towering pines of the forest envelop you. The air is crisp and cool, and the forest floor is thick with ferns and fallen leaves. A rabbit darts across the path, disappearing into the underbrush. Somewhere in the distance, you hear the sound of running water.
+
+Possible Commands:
+1. {Continue Exploring the Forest}
+2. {Follow the Sound of Running Water}
+3. {Set up Camp}
+4. {Return towards White Run}
+5. {Hunt for Food}
+6. {Other}` 
+
+1
+
+`Command selected: {Continue Exploring the Forest}
+
+"You tread carefully, further into the depths of the forest. The undergrowth becomes denser as you move deeper, but the path is still clearly visible."
+
+Dice Roll: 14
+
+Turn: 9
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Deep in Eastern Forest
+Gold: 60
+
+Description: The trees tower over you, their trunks wide and aged. The scent of pine and earth fills your nose, a familiar and comforting aroma. An old signpost stands ahead, its markings faded and worn. The signs point in three directions: North towards a waterfall, East towards an old fort, and South back towards Whiterun.
+
+Possible Commands:
+1. {Head North towards the Waterfall}
+2. {Venture East towards the Old Fort}
+3. {Return South towards White Run}
+4. {Set up Camp}
+5. {Inspect the Signpost}
+6. {Other}` 
+
+2
+
+`Command selected: {Venture East towards the Old Fort}
+
+"Taking the path east, you make your way towards the old fort. As you draw closer, you can see the stone structure, partially reclaimed by the forest."
+
+Dice Roll: 19
+
+Turn: 10
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort in Eastern Forest
+Gold: 60
+
+Description: The fort is old and weathered, the stone worn by time and nature. Moss clings to the stone, and vines have begun to climb the walls. The once strong wooden gates are rotted and open. A strange silence hangs in the air around the fort, the sounds of the forest seemingly quieter here.
+
+Inventory: 
+1. Steel Sword
+2. Leather Armor
+3. Health Potion (2)
+4. Bread (3)
+5. Water Flask
+6. Torch (2)
+
+Quest: None
+Stats: Strength: 6, Intelligence: 4, Dexterity: 8, Luck: 2, Persuasion: 1
+Period of Day: Noon
+Day: Middas (Wednesday)
+Weather: Clear
+Season: Spring
+
+Possible Commands:
+1. {Explore the Fort}
+2. {Inspect the Surroundings}
+3. {Return to the Forest}
+4. {Set up Camp}
+5. {Knock on the Fort Gates}
+6. {Other}` 
+
+1
+
+`Command selected: {Explore the Fort}
+
+"Gathering your courage, you step forward into the open gates of the fort. The fort's inner courtyard is overgrown with wildflowers, and the buildings seem empty."
+
+Dice Roll: 8
+
+Turn: 11
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Inside Old Fort
+Gold: 60
+
+Description: You are standing in the courtyard of the fort. A few scattered buildings line the walls, including what appears to be a barracks and a mess hall. The main keep stands tall in the middle, its door slightly ajar. There's an eerie silence here, broken occasionally by the rustling of leaves. 
+
+Possible Commands:
+1. {Enter the Main Keep}
+2. {Explore the Barracks}
+3. {Visit the Mess Hall}
+4. {Return to the Forest}
+5. {Inspect the Courtyard}
+6. {Other}` 
+
+1
+
+`Command selected: {Enter the Main Keep}
+
+"Taking a deep breath, you walk towards the keep. You push the wooden door open, it creaks loudly, echoing in the quiet surroundings."
+
+Dice Roll: 16
+
+Turn: 12
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+
+Description: Inside the keep, it's dark and cool. Your eyes adjust to the dim light, helped by the sun streaming through cracks in the wall. The stone floor is dusty, the air musty. You notice old, wooden furniture: a table, some chairs, a bookshelf with a few books still intact. You spot an old map on the table, and a chest in the corner of the room.
+
+Possible Commands:
+1. {Inspect the Books}
+2. {Look at the Map}
+3. {Open the Chest}
+4. {Sit on a Chair}
+5. {Return to the Courtyard}
+6. {Other}` 
+
+1
+
+`Command selected: {Inspect the Books}
+
+"You approach the bookshelf and carefully pull out one of the books. It's surprisingly well-preserved considering the environment."
+
+Dice Roll: 12
+
+Turn: 13
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+
+Description: You've picked up an ancient tome titled "The Tales of the Dwemer". The book is filled with strange stories about the Dwemer, also known as the Dwarves. It speaks of their technological marvels, architectural wonders, and eventual disappearance. The tales are quite fascinating, inspiring even. 
+
+After reading the book, you feel a surge of knowledge. Your Intelligence stat increases by 1.
+
+Possible Commands:
+1. {Put the Book Back}
+2. {Look at the Map}
+3. {Open the Chest}
+4. {Sit on a Chair}
+5. {Return to the Courtyard}
+6. {Other}` 
+
+2
+
+`Command selected: {Look at the Map}
+
+"You approach the table and unroll the old map. It's a bit worn and torn at the edges but still legible."
+
+Dice Roll: 11
+
+Turn: 14
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+Intelligence: 11 (+1)
+
+Description: The map seems to be of Skyrim, but an older version perhaps. It highlights a few places, roads, and paths you didn't know about. One path is drawn leading from this fort to a hidden cave in the mountains to the east.
+
+Possible Commands:
+1. {Take the Map}
+2. {Put the Map Back}
+3. {Open the Chest}
+4. {Sit on a Chair}
+5. {Return to the Courtyard}
+6. {Other}` 
+
+1
+
+`Command selected: {Take the Map}
+
+"Deciding that the map could be helpful, you carefully roll it up and tuck it into your pack."
+
+Dice Roll: 19
+
+Turn: 15
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+Intelligence: 11 (+1)
+
+Description: With the map secured, you feel more confident about your journey. It might even lead you to places unknown. You feel a spark of excitement despite the eerie surroundings. 
+
+Inventory: Longsword, Leather Armor, Torch, Waterskin, 5 days Rations, Ancient Map
+Quest: None
+Stats: Strength: 10, Intelligence: 11, Dexterity: 12, Persuasion: 8, Luck: 10
+Period of Day: Evening
+Day: Sundas
+Weather: Cloudy
+Season: Last Seed (Late Summer)
+
+Possible Commands:
+1. {Open the Chest}
+2. {Sit on a Chair}
+3. {Return to the Courtyard}
+4. {Other}` 
+
+1
+
+`Command selected: {Open the Chest}
+
+"Moving to the corner of the room, you see the old wooden chest. You slowly lift the heavy lid, the hinges creaking with age."
+
+Dice Roll: 15
+
+Turn: 16
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+Intelligence: 11 (+1)
+
+Description: The chest is filled with a variety of items, all seemingly left in a hurry. There's a small bag of gold coins, an intricately carved wooden amulet, a dagger with a jeweled hilt, a health potion, and a scroll. The scroll seems to be covered in strange symbols.
+
+Possible Commands:
+1. {Take the Gold}
+2. {Inspect the Amulet}
+3. {Inspect the Dagger}
+4. {Take the Health Potion}
+5. {Read the Scroll}
+6. {Other}` 
+
+5
+
+`Command selected: {Read the Scroll}
+
+"Carefully unrolling the parchment, you begin to read the symbols inscribed upon it."
+
+Dice Roll: 16
+
+Turn: 17
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 60
+Intelligence: 11 (+1)
+
+Description: The symbols on the scroll form the words of a spell. As you read, you begin to understand the meaning behind them. It's a spell of Flames, allowing the caster to summon fire from their fingertips. After studying the scroll, it crumbles to dust in your hands, but not before you've memorized the incantation. 
+
+You've learned a new spell: Flames.
+
+Possible Commands:
+1. {Take the Gold}
+2. {Inspect the Amulet}
+3. {Inspect the Dagger}
+4. {Take the Health Potion}
+5. {Other}` 
+
+1
+
+`Command selected: {Take the Gold}
+
+"You scoop up the small bag of gold coins and tuck it away in your pack."
+
+Dice Roll: 12
+
+Turn: 18
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 90 (+30)
+Intelligence: 11 (+1)
+
+Description: With a little extra gold in your pocket, you're feeling somewhat richer. The chest is now less full, but the amulet, dagger, and health potion still catch your eye.
+
+Possible Commands:
+1. {Inspect the Amulet}
+2. {Inspect the Dagger}
+3. {Take the Health Potion}
+4. {Close the Chest}
+5. {Other}` 
+
+3
+
+`Command selected: {Take the Health Potion}
+
+"You carefully take the health potion and add it to your inventory."
+
+Dice Roll: 10
+
+Turn: 19
+HP: 20/20
+XP: 40
+AC: 11 (Leather Armor)
+Level: 1
+Location: Skyrim, Old Fort's Main Keep
+Gold: 90
+Intelligence: 11 (+1)
+
+Description: You now hold a small vial of red liquid - a health potion, useful for recovering your strength in dangerous situations. The amulet and dagger are still inside the chest.
+
+Inventory: Longsword, Leather Armor, Torch, Waterskin, 5 days Rations, Ancient Map, Health Potion
+
+Possible Commands:
+1. {Inspect the Amulet}
+2. {Inspect the Dagger}
+3. {Close the Chest}
+4. {Other}` 
