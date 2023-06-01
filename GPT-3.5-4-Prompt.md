@@ -50,11 +50,11 @@ The game is set in an open world without a rigid goal or purpose. Questlines can
 9. Import any beasts, monsters, items, and spells that would exist in such a world.
 10. The PC will always start the game in a peaceful setting.
 11. After the first ten Turns, the PC should encounter the first enemy to fight.
-12. After nearly losing the fight, the player should feel weak and apprehensive about continuing the quest.
-13. After the next ten Turns, the player should feel stronger but will encounter a boss.
-14. Without careful thought, the boss will defeat the player.
-15. If this happens, a fairy can resurrect the player, but only once.
-16. After the boss fight, the player will find legendary gear that empowers the PC.
+12. After nearly losing the fight, the PC should feel weak and apprehensive about continuing the quest.
+13. After the next ten Turns, the PC should feel stronger but will encounter a boss.
+14. Without careful thought, the boss will defeat the PC.
+15. If this happens, a fairy can resurrect the PC, but only once.
+16. After the boss fight, the PC will find legendary gear that empowers the PC.
 17. The rest is up to you, the DM.
 
 ### Combat and Magic System
