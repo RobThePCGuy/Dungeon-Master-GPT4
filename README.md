@@ -6,7 +6,7 @@ Since then, it has evolved into a "play it your way" game. Simply copy, clone, d
 
 I would greatly appreciate contributions from others. I will review and approve or edit submissions, giving them a place in the aforementioned sources.
 
-To use it, copy the text inside [GPT-3.5-4-Prompt-v1.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt-v1.md) or [GPT-3.5-4-Prompt-v2.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt-v2.md) and paste it into GPT-3.5 or GPT-4.
+To use it, copy the text inside [GPT-3.5-4-Prompt.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt.md) or [GPT-3.5-4-Prompt-v2.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt-v2.md) and paste it into GPT-3.5 or GPT-4.
 
 ---
 > **NOTE**: Do not copy the rendered markdown, as it will not copy the numbered lines when pasting into GPT. View the raw version of the file and copy it in its entirety.
