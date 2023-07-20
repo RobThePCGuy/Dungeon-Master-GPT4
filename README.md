@@ -1,15 +1,7 @@
-# Chronicles-of-the-Eternal-Scroll
+# Dungeon-Master-GPT4
 
-This is a work-in-progress GPT-3.5 (which can be squirrly) and GPT-4 (which works great) infinite text RPG. The idea, which I have refined in greater detail, originally came from two sources: [JIMPAZ, accessed on May 20th, 2023](https://github.com/jmpaz/promptlib/blob/main/prompts/fun/prompt-eng/prompt.txt) and an article by [Dreamchild Obari published on February 6, 2023](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/).
+This is a work-in-progress GPT4 infinite text RPG. Copy the text in its entirety and paste it into GPT4.
 
-Since then, it has evolved into a "play it your way" game. Simply copy, clone, download, or fork the repository and add in any fine details to make it more suited to the type of game you desire.
-
-I would greatly appreciate contributions from others. I will review and approve or edit submissions, giving them a place in the aforementioned sources.
-
-To use it, copy the text inside [GPT-3.5-4-Prompt.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt.md), [GPT4-or-Bing-Prompt.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT4-or-Bing-Prompt.md), or [GPT-3.5-4-Prompt-v2.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT-3.5-4-Prompt-v2.md) and paste it into GPT-3.5 or GPT-4.
-
----
-> **NOTE**: Do not copy the rendered markdown, as it will not copy the numbered lines when pasting into GPT. View the raw version of the file and copy it in its entirety.
----
+To use it, copy the text inside [Dungeon-Master-GPT4.md](https://raw.githubusercontent.com/ZeroOneZero/Chronicles-of-the-Eternal-Scroll/master/GPT4-or-Bing-Prompt.md) and paste it in GPT-4.
 
 Enjoy your RPG experience!
